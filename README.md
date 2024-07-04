@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Samin and I am a rising senior at Florida Atlantic University. I'm a Management Information Systems Major with a concentration in Cybersecurity using GitHub to document my process in learning Python. 
 <!--
 **SaminSahim/SaminSahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
