@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Samin and I am a rising senior at Florida Atlantic University. I'm a Management Information Systems Major with a concentration in Cybersecurity using GitHub to document my process of learning Python and other security/networking concepts.
 
-##Socials:
+## Socials:
 
 LinkedIn: https://www.linkedin.com/in/samin-sahim-57aab8271/
 <!--
